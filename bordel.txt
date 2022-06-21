@@ -48,12 +48,3 @@ viande
 hachee
 bonbon
 jus
-
-
-pomme
-tomate
-parmesan
-basilic
-jambon
-beurre
-baguette
